@@ -1,4 +1,4 @@
-package com.bosssoft.nontax.agency.api.service;
+﻿package com.bosssoft.nontax.agency.api.service;
 
 import com.bosssoft.nontax.agency.api.domain.ECheckResult;
 
@@ -13,7 +13,7 @@ public interface IEAdjustService {
 
 	/**
 	 * 
-	 * 收入调整审批结果
+	 * 收入调整审批结果2222222222222222
 	 * 
 	 * @param result
 	 */
